@@ -14,7 +14,8 @@
 * Interests: Data Science, Artificial Intelligence, Robotics
 
 
-## 📫 How to reach me: ajadi.ololade@gmail.com
+## 📫 How to reach me: 
+-   [Mail] ajadi.ololade@gmail.com
 -   [Twitter](https://twitter.com/ajadi473)
 -   [LinkedIn](https://linkedin.com/in/ajadi473)
 - ⚡ Fun fact: I think i do not know nothing except codes...
