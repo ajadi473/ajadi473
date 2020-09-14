@@ -18,5 +18,6 @@
 -   [Mail] ajadi.ololade@gmail.com
 -   [Twitter](https://twitter.com/ajadi473)
 -   [LinkedIn](https://linkedin.com/in/ajadi473)
-- ⚡ Fun fact: I think i do not know nothing except codes...
+
+## ⚡ Fun fact: I think i do not know nothing except codes...
 
