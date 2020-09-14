@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**ajadi473/ajadi473** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**I'm Ajadi Ololade Paul, a graduate of Computer Science and a full stack web developer with keen interested in understanding the concepts of Scalable Software development. Good knowledge in  Laravel-PHP, Python, VueJS, C++, C# and C programming language. A community contributor focused on building local and global communities in Africa.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills and Interests:
+
+> Programming Language(s): Laravel-PHP,Python, C, C#, C++, VueJS
+> OS: Linux, MacOS
+> Cloud: HCP, AWS
+> Project Management: ClickUp, ClubHouse
+> Others: Agile
+> Language(s): English
+> Interests: Data Science, Artificial Intelligence, Robotics
+
+
+- 📫 How to reach me: ajadi.ololade@gmail.com
+-   [Twitter](https://twitter.com/ajadi473)
+-   [LinkedIn](https://linkedin.com/in/ajadi473)
+- ⚡ Fun fact: I think i do not know nothing except codes...
+
