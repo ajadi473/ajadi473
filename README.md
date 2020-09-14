@@ -5,13 +5,12 @@
 
 ## 📫 Skills and Interests:
 
-* Programming Language(s): Laravel-PHP,Python, C, C#, C++, VueJS
-* OS: Linux, MacOS
-* Cloud: HCP, AWS
+* Programming Language(s): Wordpress, Laravel-PHP,Python, C, C#, C++, VueJS
+* OS: Linux, WinOS
 * Project Management: ClickUp, ClubHouse
 * Others: Agile
 * Language(s): English
-* Interests: Data Science, Artificial Intelligence, Robotics
+* Interests: Robotics, Data Science, Artificial Intelligence, 
 
 
 ## 📫 How to reach me: 
