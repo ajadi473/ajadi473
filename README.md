@@ -19,5 +19,5 @@
 -   [Twitter](https://twitter.com/ajadi473)
 -   [LinkedIn](https://linkedin.com/in/ajadi473)
 
-## ⚡ Fun fact: Coding is fun with the right environment...
+## ⚡ Fun fact: Coding is fun in the right environment and adequate resources...
 
