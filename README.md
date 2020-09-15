@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 
-> I'm Ajadi Ololade Paul, a graduate of Computer Science and a full stack  web developer with keen interested in understanding the concepts of Scalable Software development. Good knowledge in  Laravel-PHP, Python, VueJS, C++, C# and C programming language. A community contributor focused on building local and global communities in Africa.
+> I'm Ajadi Ololade Paul, a graduate of Computer Science and a back-end  web developer with keen interested in understanding the concepts of Scalable Software development and modern safe practices. Intermediary knowledge in  Laravel-PHP, Python, VueJS. Beginner knowledge in C++, C# and C programming language. A community contributor focused on building local and global communities in Africa.
 >
 
 ## 📫 Skills and Interests:
 
-* Programming Language(s): Wordpress, Laravel-PHP,Python, C, C#, C++, VueJS
+* Programming Language(s): Laravel-PHP, Wordpress,Python, VueJS, Html, Css, C, C# and C++.
 * OS: Linux, WinOS
 * Project Management: ClickUp, ClubHouse
 * Others: Agile
@@ -15,7 +15,7 @@
 
 
 ## 📫 How to reach me: 
--   [Mail] ajadi.ololade@gmail.com
+-   ajadi.ololade@gmail.com
 -   [Twitter](https://twitter.com/ajadi473)
 -   [LinkedIn](https://linkedin.com/in/ajadi473)
 
