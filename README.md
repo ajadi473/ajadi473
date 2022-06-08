@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-> I am Ajadi Ololade Paul, a graduate of Computer Science and a self taught back-end  web developer with keen interested in understanding the concepts of Scalable Software development and best current practices. Intermediary knowledge in  Laravel-PHP, Python, VueJS. Beginner knowledge in C++, C# and C programming language. A community contributor focused on building local and global communities in Africa.
+> I am Ajadi Ololade Paul, a graduate of Computer Science and a self taught back-end  web developer with keen interested in understanding the concepts of Scalable Software development and best current practices. Intermediary knowledge in  Laravel-PHP, Python-Django, webscraping, VueJS and AngulaJS. Beginner knowledge in C++, C# and C programming language. A community contributor focused on building local and global communities in Africa.
 >
 
 ## 📫 Skills and Interests:
