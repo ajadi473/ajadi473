@@ -16,7 +16,7 @@
 
 ## 📫 How to reach me: 
 -   ajadi.ololade@gmail.com
--   [Twitter](https://twitter.com/ajadi473)
+-   [X formerly known as Twitter](https://twitter.com/ajadi473)
 -   [LinkedIn](https://linkedin.com/in/ajadi473)
 
 ## ⚡ Fun fact: Coding is fun in the right environment and adequate resources...
