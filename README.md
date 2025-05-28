@@ -21,3 +21,12 @@
 
 ## ⚡ Fun fact: Coding is fun in the right environment and adequate resources...
 
+### Behold my GitHub achievements
+[![trophy](https://github-profile-trophy.vercel.app/?username=ajadi473)](https://github.com/ryo-ma/github-profile-trophy)
+
+## My GitHub Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ajadi473&theme=dark)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajadi473&langs_count=4)
+
+## My Contribution History
+![snake gif](https://github.com/ajadi473/snake-gen/blob/output/github-contribution-grid-snake.gif)
